@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "build": "npm install"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
